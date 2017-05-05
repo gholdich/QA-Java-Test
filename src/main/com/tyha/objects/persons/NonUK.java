@@ -17,5 +17,5 @@ public class NonUK extends Person {
 	public void setVisaInformation(String visaInformation) {
 		this.visaInformation = visaInformation;
 	}
-
+	
 }

@@ -7,5 +7,5 @@ public class UK extends Person {
 	public UK(String firstName, String surname, String dateOfBirth, String nationality) {
 		super(firstName, surname, dateOfBirth, nationality);
 	}
-
+	
 }
