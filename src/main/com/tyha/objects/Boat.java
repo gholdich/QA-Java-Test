@@ -1,5 +1,8 @@
 package main.com.tyha.objects;
 
+import java.util.ArrayList;
+import java.util.LinkedList;
+
 import main.com.tyha.interfaces.Vehicle;
 
 public class Boat implements Vehicle  {
@@ -7,6 +10,9 @@ public class Boat implements Vehicle  {
 	private String name;
 	private String countryOfOrigin;
 	private double size;
+	ArrayList<Person> owners = new ArrayList<Person>();
+	LinkedList<Person> staff = new LinkedList<Person>();
+	
 	
 	
 	@Override
