@@ -1,0 +1,77 @@
+Marinas
+
+Monaco Yacht Club
+Quai Louis II, 98000 Monaco
+150
+|
+Venice Marinas
+237 Sports Marina Rd, Venice, LA 70091, USA
+300
+|
+
+Boats
+
+Santa Maria
+Portugal
+0.8
+|
+Marys Dream
+USA
+2.3
+|
+Boaty McBoatface
+Great Britain
+3.8
+|
+Aquaholic
+Panama
+1.0
+|
+
+People
+
+David Green
+14/07/1952
+British
+|
+Mary Jones
+8/12/1968
+Brtish
+|
+Mike Wozniak
+02/04/1976
+Polish
+1759346/A
+|
+Bill Knightley
+17/05/1943
+Australian
+9986342/B
+|
+Brian Johnson
+05/10/1947
+British
+|
+Linus Torvalds
+28/12/1969
+Finnish
+88754438/A
+|
+Peter Jackson
+31/10/1961
+New Zealander
+76446789/A
+|
+Adele
+05/05/1988
+British
+|
+Emma Watson
+15/04/1990
+British
+|
+Avril Lavigne
+27/09/1984
+Canadian
+35688643/C
+|

@@ -12,6 +12,7 @@ public class Boat implements Vehicle  {
 	private double size;
 	ArrayList<Person> owners = new ArrayList<Person>();
 	LinkedList<Person> staff = new LinkedList<Person>();
+	private boolean atMarina;
 	
 	
 	
@@ -40,6 +41,9 @@ public class Boat implements Vehicle  {
 	public double getSize() {
 		return size;
 	}
+	public boolean isAtMarina() {
+		return atMarina;
+	}
 	public void setName(String name) {
 		this.name = name;
 	}
@@ -48,6 +52,9 @@ public class Boat implements Vehicle  {
 	}
 	public void setSize(double size) {
 		this.size = size;
+	}
+	public void setAtMarina(boolean atMarina) {
+		this.atMarina = atMarina;
 	}
 
 }
