@@ -81,36 +81,47 @@ public class Boat implements Vehicle  {
 	public String getName() {
 		return name;
 	}
+	
 	public String getCountryOfOrigin() {
 		return countryOfOrigin;
 	}
+	
 	public double getSize() {
 		return size;
 	}
+	
 	public ArrayList<Person> getOwners() {
 		return owners;
 	}
+	
 	public ArrayList<Person> getCrew() {
 		return crew;
 	}
+	
 	public Person getCaptain() {
 		return captain;
 	}
+	
 	public Marina getMooredAt() {
 		return mooredAt;
 	}
+	
 	public void setName(String name) {
 		this.name = name;
 	}
+	
 	public void setCountryOfOrigin(String countryOfOrigin) {
 		this.countryOfOrigin = countryOfOrigin;
 	}
+	
 	public void setSize(double size) {
 		this.size = size;
 	}
+	
 	public void setCaptain(Person captain) {
 		this.captain = captain;
 	}
+	
 	public void setMooredAt(Marina marina) {
 		this.mooredAt = marina;
 	}
